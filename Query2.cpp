@@ -3,22 +3,6 @@
 #include <math.h>
 #include <vector>
 using namespace std;
-// int main()
-// {   
-//     int i;
-// 	cout<<"Please enter the side of square to make:";
-//     cin >> i; 
-//     //cout << "Side of the square is:"<< i;
-//     for (int k=0;k<i;k++)
-//     {
-//         for(int l=0;l<i;l++)
-//         {
-//             cout<<"*";
-//         }
-//         cout<<"\n";
-//     }
-//     return 0;
-// }
 
 int minPerimeter(int n) 
 { 
@@ -47,7 +31,6 @@ int minPerimeter(int n)
     } 
 } 
   
-// Driver code 
 int main() 
 { 
     //int n = 3;
